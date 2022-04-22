@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Dingus-Pingus
+- 👋 Hi, I’m @Johnnyded
 - 👀 I’m interested in becoming the best programmer I can be
 - 🌱 I’m currently learning Java, HTML, CSS, and JS
