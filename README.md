@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Johnnyded
-- 👀 I’m interested in becoming the best programmer I can be
-- 🌱 I’m currently learning Java, HTML, CSS, and JS
+- 👀 I currently attend CSULB with a set graduation in the Fall of 2023
+- 🌱 I’m currently focusing on creating and deploying a personal website loaded with my own personal touches to give it some zaz!
+- I really enjoy getting to the bottom of things and understanding how things work the way they do and what better field to do that in than in CS
